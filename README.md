@@ -19,7 +19,9 @@ Download the datasets and place them in the `data/` directory. Update the data p
 # Usage
 
 ### 1. Disentangling cellular state and perturbation effects
-
+```bash
+demo_disentangling.ipynb
+```
 ### 2. Cross-condition
 
 ### 3. Case
