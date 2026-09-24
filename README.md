@@ -8,3 +8,9 @@ scContextVI is an unsupervised generative framework for disentangling background
 ```bash
 pip install -r requirements.txt
 ```
+
+### Data availability
+
+The processed datasets used in this study are available from the following sources:
+
+Download the datasets and place them in the `data/` directory. Update the data paths in the corresponding scripts or notebooks before running the analyses.
