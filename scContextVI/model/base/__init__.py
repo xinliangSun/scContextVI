@@ -1,0 +1,7 @@
+from ._utils import SCCONTEXTVI_REGISTRY_KEYS
+from ._utils import SCCONTEXTVI_METRIC_KEYS
+
+__all__ = [
+    "SCCONTEXTVI_REGISTRY_KEYS",
+    "SCCONTEXTVI_METRIC_KEYS"
+]
