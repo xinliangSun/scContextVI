@@ -11,6 +11,6 @@ pip install -r requirements.txt
 
 ### Data availability
 
-The processed datasets used in this study are available from the following sources:
-
+The processed datasets used in this study are available from the following link:
+https://drive.google.com/drive/folders/1l182uUUCmQ6qHRevVtFrlvZtkX0nahZ4?usp=drive_link
 Download the datasets and place them in the `data/` directory. Update the data paths in the corresponding scripts or notebooks before running the analyses.
