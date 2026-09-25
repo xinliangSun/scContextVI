@@ -24,6 +24,6 @@ demo_disentangling.ipynb
 ```
 ### 2. Cross-condition
 ```bash
-cross_condition.ipynb
+demo_cross_condition.ipynb
 ```
 
