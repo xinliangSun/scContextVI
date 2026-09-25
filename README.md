@@ -23,6 +23,7 @@ Download the datasets and place them in the `data/` directory. Update the data p
 demo_disentangling.ipynb
 ```
 ### 2. Cross-condition
-
-### 3. Case
+```bash
+cross_condition.ipynb
+```
 
